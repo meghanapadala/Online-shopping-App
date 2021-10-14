@@ -1,0 +1,8 @@
+ONLINE SHOPPING APP
+
+Objective:
+To Design and Implement an application platform for a business to create digital  presence and improve the number of sales through e-commerce.
+
+Technologies used:
+Frontend-HTML using Thymeleaf Template,css styles, Bootstrap
+Backend-SpringBoot
